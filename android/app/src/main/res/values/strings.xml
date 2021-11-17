@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MyDoctor</string>
+
+    <!-- Replace "000000000000" with your Facebook App ID here. -->
+    <string name="facebook_app_id">3142261105870245</string>
+
+    <string name="fb_login_protocol_scheme">fb3142261105870245</string>
+
+    <string name="server_client_id">820015520631-idfjnqt0ukj19uji7de7b1hketjo3aji.apps.googleusercontent.com</string>
+</resources>
